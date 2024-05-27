@@ -6,3 +6,12 @@ Im Studium konnte ich bereits einige Einblicke in diesen Bereich erhalten und so
 
 Leider war mein Aufenthalt im Team Frontend Development nur für ein Semester vorgesehen, sodass mir viele spannende Konzepte nicht beigebracht werden konnten.
 Aus diesem Grund entschied ich mich nach meinem Studium dazu, selbstständig einen umfangreichen Udemy Onlinekurs in Web Development zu absolvieren, um sowohl meinen Wissensstand als auch meine Skills weiter auszubauen!
+
+
+
+## Meine Skills
+
+- HTML, CSS, JavaScript
+- Responsive Design
+- Bootsstrap
+- jQuery
