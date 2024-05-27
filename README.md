@@ -13,5 +13,5 @@ Aus diesem Grund entschied ich mich nach meinem Studium dazu, selbstständig ein
 
 - HTML, CSS, JavaScript
 - Responsive Design
-- Bootsstrap
+- Bootstrap
 - jQuery
