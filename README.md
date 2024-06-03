@@ -18,6 +18,4 @@ Aus diesem Grund entschied ich mich nach meinem Studium dazu, einen umfangreiche
 
 ## 👀
 [![trophy](https://github-profile-trophy.vercel.app/?username=eduskx&theme=onedark)](https://github.com/eduskx/github-profile-trophy)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=eduskz&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
