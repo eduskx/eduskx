@@ -16,5 +16,6 @@ Aus diesem Grund entschied ich mich nach meinem Studium dazu, einen umfangreiche
 - Git, Github
 - Bootstrap
 - jQuery
-- React
+- React.js
+- Node.js
 
