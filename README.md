@@ -12,8 +12,6 @@ Aus diesem Grund entschied ich mich nach dem Studium dazu, einen umfangreichen U
 - HTML, CSS, JavaScript
 - Responsive Design
 - Git, Github
-- Bootstrap
-- jQuery
 - React.js
-- Node.js
+- Next.js
 
