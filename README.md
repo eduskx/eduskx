@@ -1,17 +1,18 @@
-# Hi, ich bin Edu! 👋🏻
+# Hey, my name is Eduard! 👋🏻
 
-Ich habe neulich mein duales Studium in Wirtschaftsinformatik bei der Schwarz Gruppe abgeschlossen und dabei meine Leidenschaft fürs Frontend Development entdeckt! 💻
+I’m an enthusiastic Frontend Developer with a dual degree in Business Informatics from the Schwarz Group. 🎓 During my studies, I discovered my passion for frontend development and gained valuable practical experience through initial projects.
 
-Im Studium konnte ich bereits eine Menge praktische und berufliche Erfahrung sammeln und bei meinen ersten großen Projekten mitwirken, allerdings wollte ich nach Abschluss meines Studiums noch viel mehr dazulernen.
-Aus diesem Grund entschied ich mich nach dem Studium dazu, einen umfangreichen Udemy Onlinekurs und ein Bootcamp bei "neue fische" zu absolvieren, um sowohl meinen Wissensstand als auch meine Skills als Web Developer weiter auszubauen!
+After graduation, it became clear to me: I wanted to dive even deeper into the field and further develop my skills. That’s why I completed an extensive Udemy course and decided to join an intensive bootcamp at “neue fische.” Here, I deepened my knowledge of modern web technologies and developed new skills that will advance my career as a Web Developer. 💻
+
+I’m excited to apply this passion and my knowledge to exciting projects and continuously develop myself further!
 
 
 
-## Meine Skills
+## My Tech Stack
 
 - HTML, CSS, JavaScript
 - Responsive Design
-- Git, Github
 - React.js
 - Next.js
+- Git
 
