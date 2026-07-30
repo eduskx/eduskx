@@ -22,23 +22,13 @@ Zuletzt: Praxiserfahrung bei der Schwarz Gruppe (kaufland.de). Aktuell vertiefe 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduskx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduskx&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
 
 ## Kontakt
 
-  <a href="https://linkedin.com/in/DEIN-PROFIL](https://www.linkedin.com/in/eduard-lisovskij/">
+  <a href="https://linkedin.com/in/eduard-lisovskij">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://DEIN-PORTFOLIO.de](https://eduskx.github.io/portfolio/">
+  <a href="https://eduskx.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:eduard.lisovskij@gmail.com">
