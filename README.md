@@ -28,6 +28,7 @@ Zuletzt: Praxiserfahrung bei der Schwarz Gruppe (kaufland.de). Aktuell vertiefe 
   <a href="https://linkedin.com/in/eduard-lisovskij" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <br />
   <a href="https://eduskx.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
