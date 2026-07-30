@@ -32,5 +32,8 @@ Zuletzt: Praxiserfahrung bei der Schwarz Gruppe (kaufland.de). Aktuell vertiefe 
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:eduard.lisovskij@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="eduard.lisovskij@gmail.com" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <p>
+    📧 eduard.lisovskij@gmail.com
+  </p>
