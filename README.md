@@ -25,15 +25,9 @@ Zuletzt: Praxiserfahrung bei der Schwarz Gruppe (kaufland.de). Aktuell vertiefe 
 
 ## Kontakt
 
-  <a href="https://linkedin.com/in/eduard-lisovskij" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://eduskx.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:eduard.lisovskij@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <p>
-    📧 eduard.lisovskij@gmail.com
-  </p>
+<p>
+  <a href="https://linkedin.com/in/eduard-lisovskij" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://eduskx.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:eduard.lisovskij@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  &nbsp;📧 eduard.lisovskij@gmail.com
+</p>
