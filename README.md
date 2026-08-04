@@ -1,6 +1,6 @@
 # Hi, ich bin Edu! 👋🏻
 
-Web Developer aus Berlin. Ich baue nutzerzentrierte Web-Apps mit React & Next.js — 
+Frontend Developer aus Berlin. Ich baue nutzerzentrierte Web-Apps mit React & Next.js — 
 mit Backend-Anbindung (Node, PostgreSQL) für vollständige Features statt nur UI.
 
 Zuletzt: Praxiserfahrung bei der Schwarz Gruppe (kaufland.de). Aktuell vertiefe ich TypeScript.
